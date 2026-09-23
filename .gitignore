@@ -4,3 +4,5 @@ __pycache__/
 venv/
 figures/*.png
 arxiv/figures/*_annealing.png
+/arxiv/
+/*.pdf
